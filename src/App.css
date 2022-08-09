@@ -21,7 +21,7 @@ body {
   align-items: center;
   justify-content: center;
   border-radius: 2rem;
-  background: linear-gradient(30deg, rgb(20, 43, 85), rgb(52, 97, 179));
+  background: linear-gradient(145deg, rgb(20, 43, 85), rgb(52, 97, 179));
 }
 
 .temp {
@@ -37,6 +37,7 @@ body {
   justify-content: center;
   font-weight: 500;
   font-size: 3rem;
+  transition: all 0.4s ease;
 }
 .btns__container {
   display: flex;
